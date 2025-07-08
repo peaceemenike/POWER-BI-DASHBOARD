@@ -1,5 +1,6 @@
 # DATA JOBS DASHBOARD W/ POWER BI
-![Dashboard Page 1 ](/Assest/image%201.png)
+![Dashboard Page 1 ](/Assest/image1.png)
+
 [Explore the interactive version of this dashboard directly on the Power BI Service.](https://app.powerbi.com/links/fXXWBP9TEa?ctid=a37c2367-cf18-441f-93e5-85d7db0d493d&pbi_source=linkShare)
 ## 🔹 Introduction
 This interactive dashboard was developed to support individuals navigating the data job market—specifically career changers, new job seekers, and those seeking better opportunities. Since data on job openings, salaries, and roles is often fragmented, *this project consolidates relevant information using a real-world dataset of 2024 data science positions*. The goal is to offer a clear and user-friendly platform for exploring salary trends, job availability, and market insights.
