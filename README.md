@@ -20,7 +20,7 @@ Created meaningful metrics such as median salary and job availability using DAX 
 - **📊 Core Visualizations:**
 Employed column, bar, line, and area charts to showcase job trends, counts, and salary comparisons over time.
 
-- **🌍 Geographic Mapping:
+- **🌍 Geographic Mapping:**
 Used map charts to visualize the distribution of data science roles across different regions.
 
 - **💡 KPI Indicators & Tables:**
