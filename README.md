@@ -59,7 +59,7 @@ This dashboard serves as your central hub for exploring the data job market. It 
 ![Dashboard Page 1 ](/Assest/image2.png)
 This section allows for a more detailed exploration. Users can navigate from the main dashboard into this view to access job-specific insights—such as salary ranges, remote work availability, popular hiring platforms, and a global visualization of job locations.
 
-## **📊 Data Jobs Dashboard 2.0 (Single-Page Focus)**
+## 🔹**Data Jobs Dashboard 2.0 (Single-Page Focus)**
 
 [![Data Jobs Dashboard 2.0](/Assest/DataDashboard.png)](https://github.com/peaceemenike/Data-Job-Dashboard)
 [**View the Single Page on Power BI**](https://app.powerbi.com/links/LIn5zs2UfU?ctid=a37c2367-cf18-441f-93e5-85d7db0d493d&pbi_source=linkShare)
