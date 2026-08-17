@@ -27,7 +27,7 @@ Used map charts to visualize the distribution of data science roles across diffe
 * **💡 KPI Indicators & Tables:**
 Integrated cards to highlight key performance indicators and used tables for detailed, sortable data exploration.
 
-* **🎨 Dashboard Design:**
+* **🍥 Dashboard Design:**
 Built an intuitive and visually polished layout, incorporating both standard and advanced chart types to tell a compelling data story.
 
 * **🔁 Interactive Features:**
