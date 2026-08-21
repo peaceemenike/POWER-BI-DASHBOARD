@@ -24,7 +24,7 @@ Employed column, bar, line, and area charts to showcase job trends, counts, and 
 * **🌍 Geographic Mapping:**
 Used map charts to visualize the distribution of data science roles across different regions and countries.
 
-* **💡 KPI Indicators & Tables:**
+* **📉 KPI Indicators & Tables:**
 Integrated cards to highlight key performance indicators and used tables for detailed, sortable data exploration.
 
 * **🍥 Dashboard Design:**
