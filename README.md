@@ -39,7 +39,7 @@ Built an intuitive and visually polished layout, incorporating both standard and
 
 ## 🔹 **Dashboard Overview**
 The report is structured into three (3) pages: a home page with visualizations, a second page providing an overall summary, and a third page offering a more detailed breakdown of the project
-### 🔹**Page 1: Report Navigation**
+### 🔹**Page 1: Navigation**
 ![Dashboard Page 1](/Assest/image0.png)
 **The buttons below help users seamlessly explore the report:**
 
